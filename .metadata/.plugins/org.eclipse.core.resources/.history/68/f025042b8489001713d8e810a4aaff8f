@@ -1,0 +1,12 @@
+package com.finalproject.controller;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ProjectData {
+	
+	List<String> urls = new ArrayList<>();
+	
+	String url = "http://localhost/FrontPage";
+	
+}

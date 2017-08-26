@@ -1,0 +1,9 @@
+package com.finalproject.responsitory;
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.example.demo.model.taskJira;
+
+public interface ProjectCompany extends CrudRepository<ProjectInfo,Long>{
+
+}

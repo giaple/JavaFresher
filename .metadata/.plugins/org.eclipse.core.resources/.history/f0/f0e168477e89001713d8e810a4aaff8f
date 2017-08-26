@@ -1,0 +1,34 @@
+package com.finalproject.model;
+
+import java.io.Serializable;
+import javax.persistence.*;
+import javax.persistence.Basic;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+
+public class TestDesign {
+	private String status;
+	private String automation;
+
+	public String getStatus() {
+		return status;
+	}
+
+	public void setStatus(String status) {
+		this.status = status;
+	}
+
+	public String getAutomation() {
+		return automation;
+	}
+
+	public void setAutomation(String automation) {
+		this.automation = automation;
+	}
+
+}

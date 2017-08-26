@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.springframework.ide.eclipse.boot.launch">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/MainApp/src/main/java/com/finalproject/MainApp/MainAppApplication.java"/>
+<listEntry value="/MainApp/src/main/java/com/finalproject/MainAppApplication.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
-<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.finalproject.MainApp.MainAppApplication"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.finalproject.MainAppApplication"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="MainApp"/>
 <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.springframework.ide.eclipse.boot.launch.BootMavenSourcePathProvider"/>
 <stringAttribute key="process_factory_id" value="org.springframework.ide.eclipse.boot.launch.process.BootProcessFactory"/>
